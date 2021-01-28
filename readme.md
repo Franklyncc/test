@@ -1,2 +1,2 @@
-![Screenshot](test.jpg)
-![Screenshot](pic/test.jpg)
+![testtt](test.jpg)
+![some image](pic/test.jpg)
